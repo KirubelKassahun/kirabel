@@ -88,16 +88,6 @@ const AboutSection = () => {
             robust functionality. Passionate about transforming ideas into
             high-performing web applications, I specialize in leveraging a wide
             array of technologies to build scalable and responsive systems.
-            {/* Kirubel, a Software Engineer, brings a unique blend of technical
-            prowess and creative flair to the world of web and mobile
-            development. Fueled by a deep passion for cybersecurity, he
-            graduated with top honours from Istanbul Bilgi University's Cyber
-            Security Department and Bahçeşehir University Computer Engineering
-            department. Beyond the coding screen, Yusufhan is a natural leader,
-            steering the helm at the Bi'Siber Cyber Security Club and infusing
-            his innovative spirit into captivating UI/UX designs. In a rapidly
-            evolving tech landscape, he stands out not just for his skills but
-            for the genuine enthusiasm he brings to every project. */}
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
